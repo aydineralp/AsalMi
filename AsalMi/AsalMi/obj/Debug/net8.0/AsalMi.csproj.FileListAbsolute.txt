@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\bin\Debug\net8.0\AsalMi.exe
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\bin\Debug\net8.0\AsalMi.deps.json
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\bin\Debug\net8.0\AsalMi.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\bin\Debug\net8.0\AsalMi.dll
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\bin\Debug\net8.0\AsalMi.pdb
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\AsalMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\AsalMi.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\AsalMi.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\AsalMi.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\AsalMi.dll
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\refint\AsalMi.dll
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\AsalMi.pdb
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\AsalMi.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorithms\AsalMi\AsalMi\obj\Debug\net8.0\ref\AsalMi.dll
